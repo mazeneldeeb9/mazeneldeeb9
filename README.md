@@ -9,7 +9,7 @@
 
 **Useful software. Thoughtful engineering.**
 
-I build applications, connect APIs, and create tools that solve practical problems. I care about clear interfaces, dependable behavior, and code that is easy to understand and maintain.
+I build **mobile and desktop applications**, integrate APIs, and create tools that solve practical problems. I care about clear interfaces, dependable behavior, and code that is easy to understand and maintain.
 
 [**LinkedIn ↗**](https://www.linkedin.com/in/mazen-eldeeb/) &nbsp; · &nbsp; [**Upwork ↗**](https://www.upwork.com/freelancers/mazene36)
 
@@ -24,7 +24,7 @@ I build applications, connect APIs, and create tools that solve practical proble
   <img src="assets/apis.svg" alt="REST APIs" height="36">
 </p>
 
-Native and desktop applications · API integration · Local data · Connected systems
+**Mobile application development** · iOS with SwiftUI and UIKit · API integration · Desktop applications
 
 ## What matters to me
 
