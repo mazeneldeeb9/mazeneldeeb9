@@ -39,8 +39,6 @@ Also explore [**Salatuk**](https://github.com/mazeneldeeb9/salatuk), a prayer co
 - Connecting applications to APIs, local data, and device capabilities.
 - Making code easier to understand, test, and maintain.
 
-<!-- METRICS -->
-
 ---
 
 **Hiring a software engineer?** [Connect with me on LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) to discuss your team and product.
