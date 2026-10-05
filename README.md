@@ -9,7 +9,7 @@
 
 **Useful software. Thoughtful engineering.**
 
-I build **mobile and desktop applications**, integrate APIs, and create tools that solve practical problems. I care about clear interfaces, dependable behavior, and code that is easy to understand and maintain.
+I build **mobile and web applications**, integrate APIs, and automate workflows that solve practical problems. I care about clear interfaces, dependable behavior, and code that is easy to understand and maintain.
 
 [**LinkedIn ↗**](https://www.linkedin.com/in/mazen-eldeeb/) &nbsp; · &nbsp; [**Upwork ↗**](https://www.upwork.com/freelancers/mazene36)
 
@@ -17,14 +17,16 @@ I build **mobile and desktop applications**, integrate APIs, and create tools th
 
 <p>
   <img src="assets/swift.svg" alt="Swift" height="36">
-  <img src="assets/python.svg" alt="Python" height="36">
-  <img src="assets/c.svg" alt="C" height="36">
-  <img src="assets/git.svg" alt="Git" height="36">
-  <img src="assets/sqlite.svg" alt="SQLite" height="36">
-  <img src="assets/apis.svg" alt="REST APIs" height="36">
+  <img src="assets/flutter.svg" alt="Flutter" height="36">
+  <img src="assets/react-native.svg" alt="React Native" height="36">
+  <img src="assets/nextjs.svg" alt="Next.js" height="36">
+  <img src="assets/nestjs.svg" alt="NestJS" height="36">
+  <img src="assets/automation.svg" alt="Automation" height="36">
 </p>
 
-**Mobile application development** · iOS with SwiftUI and UIKit · API integration · Desktop applications
+- **Mobile application development:** Swift, Flutter, and React Native.
+- **Web and backend development:** Next.js and NestJS.
+- **Automation:** Workflow automation and API integration.
 
 ## What matters to me
 

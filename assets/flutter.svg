@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="36" viewBox="0 0 116 36" role="img" aria-label="Flutter">
+  <title>Flutter</title>
+  <rect width="116" height="36" rx="6" fill="#21332F"/>
+  <g transform="translate(11 8) scale(.833333)" color="#8ACFEF"><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z" fill="currentColor"/></g>
+  <text x="40" y="23" fill="#F3F1E9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Flutter</text>
+</svg>
