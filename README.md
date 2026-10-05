@@ -1,36 +1,48 @@
 # Mazen El Deeb
 
-### iOS Developer · Swift · SwiftUI · UIKit
+### Software Engineer
+
+**Building useful software across apps, tools, and connected systems.**
 
 [LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) · [Upwork](https://www.upwork.com/freelancers/mazene36)
 
-I build native iOS apps with a focus on useful features and reusable interfaces. My public projects cover location-aware experiences, reactive networking, and UIKit navigation.
+I work across native applications, desktop tools, and API integrations. I enjoy turning practical problems into software with clear interfaces, reusable components, and dependable data flows.
 
 I'm also [Top Rated on Upwork](https://www.upwork.com/freelancers/mazene36), where you can explore my client work and feedback.
 
-**Exploring my work?** Start with [My Farm](https://github.com/mazeneldeeb9/My-Farm) for SwiftUI and Combine, or [Peek](https://github.com/mazeneldeeb9/Peek) for UIKit and async networking.
+My public work spans **Swift, Python, and C**: from mobile experiences and desktop telemetry to embedded mesh communication.
 
 ## Selected projects
 
-| Project | What it does | Code to explore |
+| Project | What it does | Engineering focus |
 | --- | --- | --- |
-| **[My Farm](https://github.com/mazeneldeeb9/My-Farm)** | A SwiftUI farming app with crop browsing, location-based weather, and reusable interface components. | Combine publishers, loading and error states, shared form controls. |
-| **[Salatuk](https://github.com/mazeneldeeb9/salatuk)** | An iOS prayer companion with prayer times, a Qibla compass, and a mosque map. | Core Location, heading updates, MapKit, and local notifications. |
-| **[Peek](https://github.com/mazeneldeeb9/Peek)** | A UIKit movie discovery app built during my internship at TrianglZ. | Collection views, movie detail navigation, and async/await API requests. |
+| **[Cyberveil](https://github.com/mazeneldeeb9/Cyberveil)** | An academic desktop application for local process telemetry, deterministic replay, and session history. | Python, PySide6, SQLite, automated tests, and Arabic/English UI. |
+| **[My Farm](https://github.com/mazeneldeeb9/My-Farm)** | A native farming app with crop browsing and location-based weather. | SwiftUI, reactive networking with Combine, reusable UI, and loading/error states. |
+| **[V2X graduation project](https://github.com/mazeneldeeb9/v2x-graduation-project)** | Embedded mesh communication code for a vehicle-to-everything graduation project. | C, ESP-IDF, mesh routing, and concurrent send/receive tasks. |
+| **[Peek](https://github.com/mazeneldeeb9/Peek)** | A movie discovery app built during my internship at TrianglZ. | UIKit, REST API integration, async/await, and screen navigation. |
 
-## Technical focus
+Also explore [**Salatuk**](https://github.com/mazeneldeeb9/salatuk), a prayer companion combining location, compass heading, maps, and local notifications.
 
-- **Native interfaces:** SwiftUI state and bindings, reusable components, UIKit collection views, and storyboard navigation.
-- **Networking:** URLSession, Combine publishers, and Swift concurrency for fetching and presenting API data.
-- **Device features:** Core Location, compass heading, MapKit, and local notifications.
-- **Language support:** Arabic and English interfaces, localization, and language switching.
+## What I work with
 
-## Beyond iOS
+| Area | Technologies |
+| --- | --- |
+| Languages | Swift, Python, C |
+| Application development | SwiftUI, UIKit, PySide6 |
+| APIs and data | REST APIs, URLSession, Combine, SQLite |
+| Systems and devices | ESP-IDF, mesh networking, Core Location, MapKit |
+| Development tools | Git, GitHub, Xcode, pytest, Ruff, mypy |
 
-[**Cyberveil**](https://github.com/mazeneldeeb9/Cyberveil) is an academic desktop project for exploring local process telemetry. It uses Python, PySide6, and SQLite, with deterministic replay and an Arabic/English interface. The repository includes tests and tooling for pytest, Ruff, and mypy.
+## Engineering interests
+
+- Building useful products with thoughtful interfaces.
+- Connecting applications to APIs, local data, and device capabilities.
+- Making code easier to understand, test, and maintain.
+
+<!-- METRICS -->
 
 ---
 
-**Hiring for an iOS role?** [Connect with me on LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) to discuss your team and product.
+**Hiring a software engineer?** [Connect with me on LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) to discuss your team and product.
 
 For freelance projects, [find me on Upwork](https://www.upwork.com/freelancers/mazene36).
