@@ -1,46 +1,40 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="" width="100%">
+</picture>
+
 # Mazen El Deeb
 
 ### Software Engineer
 
-**Building useful software across apps, tools, and connected systems.**
+**Useful software. Thoughtful engineering.**
 
-[LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) · [Upwork](https://www.upwork.com/freelancers/mazene36)
+I build applications, connect APIs, and create tools that solve practical problems. I care about clear interfaces, dependable behavior, and code that is easy to understand and maintain.
 
-I work across native applications, desktop tools, and API integrations. I enjoy turning practical problems into software with clear interfaces, reusable components, and dependable data flows.
+[**LinkedIn ↗**](https://www.linkedin.com/in/mazen-eldeeb/) &nbsp; · &nbsp; [**Upwork ↗**](https://www.upwork.com/freelancers/mazene36)
 
-I'm also [Top Rated on Upwork](https://www.upwork.com/freelancers/mazene36), where you can explore my client work and feedback.
+## My toolkit
 
-My public work spans **Swift, Python, and C**: from mobile experiences and desktop telemetry to embedded mesh communication.
+<p>
+  <img src="assets/swift.svg" alt="Swift" height="36">
+  <img src="assets/python.svg" alt="Python" height="36">
+  <img src="assets/c.svg" alt="C" height="36">
+  <img src="assets/git.svg" alt="Git" height="36">
+  <img src="assets/sqlite.svg" alt="SQLite" height="36">
+  <img src="assets/apis.svg" alt="REST APIs" height="36">
+</p>
 
-## Selected projects
+Native and desktop applications · API integration · Local data · Connected systems
 
-| Project | What it does | Engineering focus |
-| --- | --- | --- |
-| **[Cyberveil](https://github.com/mazeneldeeb9/Cyberveil)** | An academic desktop application for local process telemetry, deterministic replay, and session history. | Python, PySide6, SQLite, automated tests, and Arabic/English UI. |
-| **[My Farm](https://github.com/mazeneldeeb9/My-Farm)** | A native farming app with crop browsing and location-based weather. | SwiftUI, reactive networking with Combine, reusable UI, and loading/error states. |
-| **[V2X graduation project](https://github.com/mazeneldeeb9/v2x-graduation-project)** | Embedded mesh communication code for a vehicle-to-everything graduation project. | C, ESP-IDF, mesh routing, and concurrent send/receive tasks. |
-| **[Peek](https://github.com/mazeneldeeb9/Peek)** | A movie discovery app built during my internship at TrianglZ. | UIKit, REST API integration, async/await, and screen navigation. |
+## What matters to me
 
-Also explore [**Salatuk**](https://github.com/mazeneldeeb9/salatuk), a prayer companion combining location, compass heading, maps, and local notifications.
-
-## What I work with
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Swift, Python, C |
-| Application development | SwiftUI, UIKit, PySide6 |
-| APIs and data | REST APIs, URLSession, Combine, SQLite |
-| Systems and devices | ESP-IDF, mesh networking, Core Location, MapKit |
-| Development tools | Git, GitHub, Xcode, pytest, Ruff, mypy |
-
-## Engineering interests
-
-- Building useful products with thoughtful interfaces.
-- Connecting applications to APIs, local data, and device capabilities.
-- Making code easier to understand, test, and maintain.
+- Solving the right problem before adding complexity.
+- Building interfaces that feel clear and natural.
+- Writing reusable, testable, maintainable code.
+- Communicating clearly and following through.
 
 ---
 
-**Hiring a software engineer?** [Connect with me on LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) to discuss your team and product.
+**Top Rated on Upwork.** [Explore my client feedback](https://www.upwork.com/freelancers/mazene36).
 
-For freelance projects, [find me on Upwork](https://www.upwork.com/freelancers/mazene36).
+**Let’s work together.** [Connect on LinkedIn](https://www.linkedin.com/in/mazen-eldeeb/) for engineering opportunities, or [reach me on Upwork](https://www.upwork.com/freelancers/mazene36) for freelance work.

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="256" viewBox="0 0 1280 256">
+  <title>Code and connections</title>
+  <desc>A geometric code symbol connects to a network of precise, colorful lines.</desc>
+  <rect width="1280" height="256" rx="12" fill="#152A27"/>
+  <g fill="none" stroke="#33524A" stroke-width="2">
+    <path d="M0 54h202l74 74h190M0 202h276l74-74h116M1280 54h-202l-74 74H814M1280 202h-276l-74-74H814"/>
+    <path d="M60 128h156m848 0h156M340 0v48l54 54m546 154v-48l-54-54"/>
+  </g>
+  <g fill="none" stroke="#AACFC0" stroke-width="3">
+    <path d="M78 82h154l46 46h188M1202 174h-154l-46-46H814"/>
+  </g>
+  <g fill="#AACFC0">
+    <circle cx="78" cy="82" r="5"/><circle cx="1202" cy="174" r="5"/>
+    <circle cx="278" cy="128" r="5"/><circle cx="1002" cy="128" r="5"/>
+  </g>
+  <rect x="466" y="38" width="348" height="180" rx="90" fill="#F3F1E9"/>
+  <g fill="none" stroke="#1D3430" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m568 94-34 34 34 34M712 94l34 34-34 34"/>
+    <path d="m656 84-32 88" stroke="#2C6556"/>
+  </g>
+  <g fill="#ECA17F">
+    <circle cx="382" cy="54" r="8"/><rect x="894" y="194" width="14" height="14" rx="3"/>
+  </g>
+  <g fill="#AACFC0">
+    <rect x="1050" y="74" width="10" height="10" rx="2"/><circle cx="202" cy="202" r="4"/>
+  </g>
+</svg>
